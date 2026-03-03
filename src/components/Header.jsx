@@ -67,9 +67,9 @@ export default function Header() {
       <div className="md:hidden fixed top-0 left-0 right-0 z-50 bg-white py-4 px-4 shadow-sm flex items-center justify-between">
         <a href="#home" onClick={() => handleNavClick('home')}>
           <img
-            src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/880a6d93-e697-44e4-8b6e-cc353a922359-krushal-sonani-web-app/assets/images/signature-1.png"
+            src={Navinayer}
             alt="Logo"
-            className="max-h-[25px] w-auto"
+            className="max-h-[60px] w-auto"
           />
         </a>
         <button
