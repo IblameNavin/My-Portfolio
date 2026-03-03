@@ -76,7 +76,7 @@ const About = () => {
             </div>
 
             <a
-              href="/public/NavinAyer-CV.pdf"
+              href="/NavinAyer-CV.pdf"
               className="btn-primary"
               download
             >
