@@ -45,7 +45,7 @@ const Hero = () => {
                     key={index}
                     className="w-12 h-12 md:w-14 md:h-14 flex items-center justify-center rounded-full bg-white shadow-[0px_0px_20px_rgba(0,0,0,0.05)] transition-all duration-300 hover:-translate-y-1"
                   >
-                    <img src={icon.src} alt={icon.alt} className="w-6 h-6 object-contain" />
+                    <img src={icon.src} alt={icon.alt} className="w-6 h-6 object-contain cursor-pointer" />
                   </div>
                 ))}
               </div>
