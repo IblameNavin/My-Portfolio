@@ -1,6 +1,6 @@
 import React from 'react';
 import ChatbotAI from "../../../assets/Chatbot-AI.png"
-import CineBook from "../../../assets/Cine-Book.png"
+import MoviePilot from "../../../assets/Movie-Pilot.png"
 import DiceGame from "../../../assets/Dice-Game.png"
 import FirebaseApp from "../../../assets/Firebase-App.png"
 import foodyZone from "../../../assets/foodyZone.png"
@@ -11,7 +11,7 @@ const portfolioItems = [
     id: 1,
     title: 'Movie Pilot',
     category: 'Movie Pilot, A Movie Booking App',
-    imageUrl: CineBook,
+    imageUrl: MoviePilot,
     url: "https://movie-pilot-ten.vercel.app/"
   },
   {
