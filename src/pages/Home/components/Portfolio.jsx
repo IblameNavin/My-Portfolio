@@ -9,10 +9,10 @@ import GrothSite from "../../../assets/GrothSite.png"
 const portfolioItems = [
   {
     id: 1,
-    title: 'Cine-Book',
-    category: 'Cine-Book, A Movie Booking App',
+    title: 'Movie Pilot',
+    category: 'Movie Pilot, A Movie Booking App',
     imageUrl: CineBook,
-    url: "https://movie-booking-two-murex.vercel.app/"
+    url: "https://movie-pilot-ten.vercel.app/"
   },
   {
     id: 2,
